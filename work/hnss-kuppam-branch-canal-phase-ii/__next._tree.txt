@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/1k5_tqx2e3j95.css","style"]
+:HL["/_next/static/chunks/1rwy2ss7-rd1r.css","style"]
+:HL["/_next/static/chunks/3b21ysyq9mzoh.css","style"]
+:HL["/media/projects/project-01.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"hnss-kuppam-branch-canal-phase-ii","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"work","h":96,"c":"$Q2"}]]
+0:{"b":"peHbevH0Dl7vGNTvME8Kq","t":{"t":{"s":"","h":84,"c":"$Q1"}}}

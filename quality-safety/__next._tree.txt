@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/1k5_tqx2e3j95.css","style"]
+:HL["/_next/static/chunks/1rwy2ss7-rd1r.css","style"]
+:HL["/_next/static/chunks/3b21ysyq9mzoh.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"quality-safety","h":96,"c":"$Q2"}]]
+0:{"b":"peHbevH0Dl7vGNTvME8Kq","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
