@@ -1,9 +1,9 @@
 :HL["/MIROR.github.io/_next/static/chunks/1k5_tqx2e3j95.css","style"]
 :HL["/MIROR.github.io/_next/static/chunks/1rwy2ss7-rd1r.css","style"]
 :HL["/MIROR.github.io/_next/static/chunks/3b21ysyq9mzoh.css","style"]
-:HL["/media/projects/surveyor.jpg","image"]
-:HL["/media/projects/project-01.png","image"]
-:HL["/media/projects/project-02.png","image"]
-:HL["/media/projects/construction-field-workers.png","image"]
+:HL["/MIROR.github.io/media/projects/surveyor.jpg","image"]
+:HL["/MIROR.github.io/media/projects/project-01.png","image"]
+:HL["/MIROR.github.io/media/projects/project-02.png","image"]
+:HL["/MIROR.github.io/media/projects/construction-field-workers.png","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"M5j044pa6ZsB-9wQp0G76","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
+0:{"b":"MnyPqUuVC5LOSqyS0tuC8","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
